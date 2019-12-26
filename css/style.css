@@ -1,0 +1,19 @@
+body {
+    background-color: blue;
+}
+
+#main {
+    width: 1063px;
+    height: 586px;
+    margin: 0 auto;
+}
+
+#main {
+    background-image: url("../images/yavorovich_lash_bar.jpg");
+}
+
+h1 {
+    text-align: center;
+    color: yellow;
+    margin: 100px 0 100px 0;
+}
